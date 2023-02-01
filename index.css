@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#container {
+  background-color: blueviolet;
+  margin: 10px;
+  padding: 10px;
+}
+
+#title {
+  background-color: yellowgreen;
+  margin: 10px;
+  padding: 10px;
+}
+
+#title2 {
+  background-color: magenta;
+  margin: 10px;
+  padding: 10px;
+}
