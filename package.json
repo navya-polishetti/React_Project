@@ -1,0 +1,26 @@
+{
+  "name": "react_project",
+  "version": "1.0.0",
+  "description": "This is a react Live course",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navya-polishetti/React_Project.git"
+  },
+  "author": "Navya Polishetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navya-polishetti/React_Project/issues"
+  },
+  "homepage": "https://github.com/navya-polishetti/React_Project#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
