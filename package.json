@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is a react Live course",
   "scripts": {
+    "start": "parcel index.html",
+    "build" : "parcel index.html",
     "test": "jest"
   },
   "repository": {
