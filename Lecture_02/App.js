@@ -43,7 +43,7 @@ const h3 = React.createElement(
 )
 
 const container = React.createElement(
-  "container",
+  "div",
   {
     id: "container",
   },
