@@ -4,7 +4,7 @@
   "description": "This is a react Live course",
   "scripts": {
     "start": "parcel index.html",
-    "build" : "parcel index.html",
+    "build": "parcel index.html",
     "test": "jest"
   },
   "repository": {
